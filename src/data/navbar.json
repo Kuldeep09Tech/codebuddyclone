@@ -1,0 +1,13 @@
+{
+    "links": [
+        { "id": 1, "label": "services", "path": "/services" },
+        { "id": 2, "label": "case studies", "path": "/case-studies" },
+        { "id": 3, "label": "about", "path": "/about" },
+        { "id": 4, "label": "blog", "path": "/blog" },
+        { "id": 5, "label": "careers", "path": "/careers" }
+    ],
+    "cta": {
+        "label": "Let's talk",
+        "path": "/contact"
+    }
+}

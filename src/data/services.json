@@ -1,0 +1,48 @@
+{
+    "header": {
+        "topLabel": "SERVICES",
+        "title": "We have a lot to offer, these are just some of",
+        "highlight": "them"
+    },
+    "browseButton": "browse services",
+    "list": [
+        {
+            "id": "design",
+            "title": "Product Design",
+            "description": "Our services, from crafting captivating user experiences to designing sleek interfaces and offering strategic consulting, are all about turning your concepts into a symphony of user-friendly brilliance.",
+            "features": [ "Experience Design", "Interface Design", "Strategy & Consulting" ],
+            "techStack": [
+                { "name": "Illustrator", "icon": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg" },
+                { "name": "Photoshop", "icon": "https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" },
+                { "name": "XD", "icon": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Adobe_XD_CC_icon.svg" },
+                { "name": "Figma", "icon": "https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" },
+                { "name": "Sketch", "icon": "https://upload.wikimedia.org/wikipedia/commons/5/59/Sketch_Logo.svg" }
+            ]
+        },
+        {
+            "id": "development",
+            "title": "Product Development",
+            "description": "Your ideas, our expertise. From crafting sleek web and mobile experiences to infusing AI magic and streamlining workflows, we're not just building products; we're sculpting seamless digital adventures tailored just for you.",
+            "features": [ "Web Development", "Mobile App Development", "Product Engineering for SaaS", "AI Integration & Development", "Workflow Automation", "Quality Assurance" ],
+            "techStack": [
+                { "name": "React", "icon": "https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" },
+                { "name": "Node", "icon": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" },
+                { "name": "Python", "icon": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" },
+                { "name": "Vue", "icon": "https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" },
+                { "name": "HTML5", "icon": "https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" }
+            ]
+        },
+        {
+            "id": "maintenance",
+            "title": "Maintenance & Optimization",
+            "description": "Whether it's making your web performance lightning-fast or ensuring your systems scale effortlessly, we've got the tech magic to keep your digital world running smoothly.",
+            "features": [ "DevOps", "Web Performance", "Solution Scaling" ],
+            "techStack": [
+                { "name": "Docker", "icon": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Docker_%28container_engine%29_logo.svg" },
+                { "name": "AWS", "icon": "https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" },
+                { "name": "Azure", "icon": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Microsoft_Azure.svg" },
+                { "name": "GitLab", "icon": "https://upload.wikimedia.org/wikipedia/commons/e/e1/GitLab_logo.svg" }
+            ]
+        }
+    ]
+}

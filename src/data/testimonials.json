@@ -1,0 +1,41 @@
+{
+    "header": {
+        "label": "TESTIMONIALS",
+        "title": "Clients call us",
+        "highlight": "'the best'"
+    },
+    "list": [
+        {
+            "id": 1,
+            "videoKey": "vid1",
+            "company": "IEE",
+            "quote": "The team led an organized and collaborative process to ensure a seamless workflow. They also provided valuable suggestions to further optimize the our system.",
+            "author": "HEIDI HAYNES",
+            "role": "Managing Director, IEE"
+        },
+        {
+            "id": 2,
+            "videoKey": "vid2",
+            "company": "Pxlbake",
+            "quote": "Right from the start, they had a great understanding of what I wanted to achieve, despite the short brief that I gave them and it was amazing working with them.",
+            "author": "BRIENNE ARROYO",
+            "role": "Director, Pxlbake"
+        },
+        {
+            "id": 3,
+            "videoKey": "vid3",
+            "company": "RedTeam",
+            "quote": "The team completed building the website in a seemingly impossible time. They helped with development, hosting, and fixing bugs, and are very resourceful.",
+            "author": "MATTHEW EVANS",
+            "role": "Senior Project Manager, Redteam"
+        },
+        {
+            "id": 4,
+            "videoKey": "vid4",
+            "company": "Startup Inc",
+            "quote": "CodeBuddy helped us scale our platform to thousands of users in record time. Their engineering standards are world-class.",
+            "author": "MARK D.",
+            "role": "Founder, Startup Inc"
+        }
+    ]
+}

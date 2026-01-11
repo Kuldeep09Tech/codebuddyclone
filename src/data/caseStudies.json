@@ -1,0 +1,36 @@
+{
+    "header": {
+        "label": "CASE STUDIES",
+        "title": "We have solutions to your business problems"
+    },
+    "list": [
+        {
+            "id": 1,
+            "imageKey": "case1",
+            "category": "NOTARIZATION PLATFORM",
+            "title": "Innovative Remote Online Notary",
+            "description": "In the ever-evolving legal service industry, our team took on the challenge of revolutionizing notary services through the development of a comprehensive software solution."
+        },
+        {
+            "id": 2,
+            "imageKey": "case2",
+            "category": "INTERIOR DESIGN & HOME DECOR",
+            "title": "Interior designing visualization tool",
+            "description": "The platform is an interior visualization tool that targets potential home buyers, developers, and realtors to showcase completed interior options."
+        },
+        {
+            "id": 3,
+            "imageKey": "case3",
+            "category": "360° VIRTUAL TOUR",
+            "title": "A dynamic platform that reimagines the world of visual content",
+            "description": "A gateway to transforming images into virtual experiences. Our platform is the ultimate destination for crafting stunning virtual tours and walkthroughs."
+        },
+        {
+            "id": 4,
+            "imageKey": "case4",
+            "category": "CREDENTIAL EVALUATION & TRANSLATION",
+            "title": "Your Trusted Credential Evaluation and Translation Platform",
+            "description": "An innovative platform in the realms of international education and professional advancement. This case study reveals how it helps to get credential evaluation in less time."
+        }
+    ]
+}

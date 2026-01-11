@@ -1,0 +1,17 @@
+{
+    "leftCard": {
+        "label": "CASE STUDY",
+        "title": "A dynamic platform that reimagines the world of visual content",
+        "cta": "read full story",
+        "person": {
+            "name": "Guy Pearson",
+            "role": "CEO, LiveNotary (acquired by",
+            "company": "PandaDoc)"
+        }
+    },
+    "rightCard": {
+        "label": "CASE STUDY",
+        "title": "Your Trusted Credential Evaluation and Translation Platform",
+        "cta": "read full story"
+    }
+}

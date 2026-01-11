@@ -1,0 +1,45 @@
+{
+    "columns": [
+        {
+            "title": "SERVICES",
+            "links": [
+                "Web Development",
+                "Mobile App Development",
+                "Product Engineering for SaaS",
+                "AI Integration & Development",
+                "Workflow Automation",
+                "Quality Assurance",
+                "DevOps",
+                "Web Performance",
+                "Solution Scaling",
+                "Experience Design",
+                "Interface Design",
+                "Strategy & Consulting"
+            ]
+        },
+        {
+            "title": "COMPANY",
+            "links": [
+                "Our Values",
+                "How we work",
+                "IP Protection",
+                "Blog",
+                "Contact us",
+                "Careers",
+                "Company Profile"
+            ]
+        }
+    ],
+    "contact": {
+        "title": "CONTACT US",
+        "email": "hello@codebuddy.co",
+        "indiaTitle": "India Office:",
+        "indiaAddresses": [
+            "EM-3 Block, Bengal Eco Intelligent Park, Module 16 B, 15th Floor, Saltlake, Sector V, Kolkata - 700091",
+            "The Clock Tower, Sky Loft Floor-3rd Creaticity Mall, Off, Airport Rd, opposite Golf Course, Shastrinagar, Yerawada, Pune, Maharashtra 411006, India"
+        ],
+        "usTitle": "US Office:",
+        "usAddress": "205 State Street, Brooklyn, New York, USA 11201"
+    },
+    "copyright": "Codebuddy 2026. All Copyrights Reserved."
+}

@@ -1,0 +1,73 @@
+{
+    "header": {
+        "label": "TECHNOLOGY",
+        "title": "We leave no tech stack behind",
+        "description": "We have built 90+ products in a diverse range of domains from enterprise SaaS to consumer-based web applications. Our teams are honed by domain experts who help you make pragmatic decisions in selecting the right infrastructure and tools without losing sight of your product vision.",
+        "cta": "let's discuss your project"
+    },
+    "tabs": [
+        {
+            "name": "Technology",
+            "items": [
+                { "name": "PHP", "key": "php" },
+                { "name": "WordPress", "key": "wordpress" },
+                { "name": "Laravel", "key": "laravel" },
+                { "name": "NodeJS", "key": "node" },
+                { "name": "ReactJS", "key": "react" },
+                { "name": "React Native", "key": "reactnative" },
+                { "name": "VueJS", "key": "vue" },
+                { "name": "SailsJS", "key": "sails" },
+                { "name": "Next JS", "key": "next" },
+                { "name": "Nest JS", "key": "nest" },
+                { "name": "Tailwind CSS", "key": "tailwind" },
+                { "name": "AEM", "key": "aem" },
+                { "name": "Nuxt JS", "key": "nuxt" },
+                { "name": "TypeScript", "key": "ts" },
+                { "name": "Svelte", "key": "svelte" }
+            ]
+        },
+        {
+            "name": "Databases",
+            "items": [
+                { "name": "MySQL", "key": "mysql" },
+                { "name": "PostgreSQL", "key": "postgres" },
+                { "name": "SQLite", "key": "sqlite" },
+                { "name": "MongoDB", "key": "mongo" },
+                { "name": "Firebase", "key": "firebase" },
+                { "name": "DynamoDB", "key": "dynamo" },
+                { "name": "MariaDB", "key": "mariadb" },
+                { "name": "Elasticsearch", "key": "elastic" },
+                { "name": "Redis", "key": "redis" }
+            ]
+        },
+        {
+            "name": "Design",
+            "items": [
+                { "name": "Figma", "key": "figma" },
+                { "name": "Photoshop", "key": "photoshop" },
+                { "name": "Illustrator", "key": "illustrator" },
+                { "name": "AdobeXD", "key": "adobexd" },
+                { "name": "Sketch", "key": "sketch" },
+                { "name": "Balsamiq", "key": "balsamiq" },
+                { "name": "Zeplin", "key": "zeplin" },
+                { "name": "InVision", "key": "invision" }
+            ]
+        },
+        {
+            "name": "Devops",
+            "items": [
+                { "name": "AWS", "key": "aws" },
+                { "name": "GCP", "key": "gcp" },
+                { "name": "Digital Ocean", "key": "digitalocean" },
+                { "name": "Docker", "key": "docker" },
+                { "name": "Kubernetes", "key": "kubernetes" },
+                { "name": "Jenkins", "key": "jenkins" },
+                { "name": "MS Azure", "key": "azure" },
+                { "name": "Vercel", "key": "vercel" },
+                { "name": "Heroku", "key": "heroku" },
+                { "name": "Netlify", "key": "netlify" },
+                { "name": "GitLab CI/CD", "key": "gitlab" }
+            ]
+        }
+    ]
+}

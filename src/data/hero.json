@@ -1,0 +1,19 @@
+{
+    "headline": "Get scalable, high-performing & secure software",
+    "subheadline": "Our solutions have also been backed by",
+    "backer": "YCombinator",
+    "rating": {
+        "score": 5,
+        "platform": "Clutch"
+    },
+    "cta": {
+        "primary": {
+            "label": "get estimate",
+            "path": "/estimate"
+        },
+        "secondary": {
+            "label": "let's talk",
+            "path": "/contact"
+        }
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "header": {
+        "label": "OUR BLOG",
+        "title": "Latest articles from our",
+        "highlight": "buddies",
+        "cta": "visit our blog"
+    },
+    "posts": [
+        {
+            "id": 1,
+            "imgKey": "b1",
+            "date": "OCTOBER 27, 2023",
+            "title": "CostGPT: AI Software Cost Estimator by Codebuddy"
+        },
+        {
+            "id": 2,
+            "imgKey": "b2",
+            "date": "OCTOBER 27, 2023",
+            "title": "Building, Launching, and Scaling SaaS Products - A Developer's Diary"
+        }
+    ]
+}

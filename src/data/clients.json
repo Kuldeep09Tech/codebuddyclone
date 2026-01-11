@@ -1,0 +1,22 @@
+{
+    "header": {
+        "label": "EXTENDED FAMILY",
+        "titleStart": "And thank",
+        "highlight": "you",
+        "titleEnd": ", Clients!",
+        "subtitle": "For making us who we are today"
+    },
+    "list": [
+        { "id": 1, "name": "Twishr", "imgKey": "c1" },
+        { "id": 2, "name": "RushAnswer", "imgKey": "c2" },
+        { "id": 3, "name": "ExpiTrack", "imgKey": "c3" },
+        { "id": 4, "name": "121Policy", "imgKey": "c4" },
+        { "id": 5, "name": "Tattva", "imgKey": "c5" },
+        { "id": 6, "name": "Client 6", "imgKey": "c6" },
+        { "id": 7, "name": "Client 7", "imgKey": "c7" },
+        { "id": 8, "name": "Client 8", "imgKey": "c8" },
+        { "id": 9, "name": "Client 9", "imgKey": "c9" },
+        { "id": 10, "name": "Client 10", "imgKey": "c10" },
+        { "id": 11, "name": "Client 11", "imgKey": "c11" }
+    ]
+}
