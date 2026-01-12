@@ -8,9 +8,8 @@
     "build": "npm run build:client && npm run build:server",
     "build:client": "vite build --outDir dist/client",
     "build:server": "vite build --ssr src/entry-server.jsx --outDir dist/server",
-    "start": "NODE_ENV=production node server.js",
-    "lint": "eslint .",
-    "preview": "node server.js"
+    "preview": "node server-prod.js",
+    "vercel-build": "vite build --outDir dist/client"
   },
   "dependencies": {
     "compression": "^1.7.4",
