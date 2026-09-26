@@ -199,7 +199,7 @@ export default function Testimonials() {
                         const progressPercent = times.total ? (times.current / times.total) * 100 : 0;
 
                         return (
-                            <div key={item.id} className="flex flex-col items-center text-center">
+                            <div key={item.id} className="flex h-full flex-col items-center text-center rounded-[28px] border border-[#e7e7e7] bg-white p-4 shadow-[0_12px_30px_rgba(15,23,42,0.08)] transition-all duration-300 hover:-translate-y-1 hover:shadow-[0_16px_36px_rgba(15,23,42,0.12)] md:p-5">
 
                                 {/* VIDEO CARD */}
                                 <div className="relative w-full aspect-[4/3] bg-gray-900 rounded-[20px] overflow-hidden mb-6 shadow-sm group">
@@ -224,8 +224,7 @@ export default function Testimonials() {
                                     )}
 
                                     {/* VIDEO CONTROLS OVERLAY */}
-                                    <div className={`absolute bottom-0 left-0 w-full bg-gradient-to-t from-black/90 to-transparent pt-8 pb-3 px-4 transition-opacity duration-300 ${isPlaying ? 'opacity-100' : 'opacity-0 group-hover:opacity-100'}`}>
-
+                                    <div className={`absolute bottom-0 left-0 w-full bg-gradient-to-t from-black/90 to-transparent pt-8 pb-3 px-4 transition-opacity duration-300 ${isPlaying ? 'opacity-100' : 'opacity-90'}`}>
                                         {/* Progress Bar (Interactive) */}
                                         <div
                                             className="w-full h-1 bg-gray-500/50 rounded-full mb-3 cursor-pointer hover:h-1.5 transition-all relative group/bar"
